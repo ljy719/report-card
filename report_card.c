@@ -13,5 +13,6 @@ int main()
 	printf("Korean : %d\n", kor);
 	printf("English : %d\n", eng);
 	printf("Math : %d\n", math);
+	printf("Sum : %d\n", sum);
 	return 0;
 }
