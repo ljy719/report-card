@@ -2,8 +2,6 @@
 
 int main()
 {
-	int kor = 90;
-	int maths = 80;
-	int eng = 100;
+	printf("This program print report card.\n");
 	return 0;
 }
