@@ -7,7 +7,7 @@ int main()
 	math = 80;
 	eng = 100;
 	kor = 90;
-
+	int sum = 80 + 90 + 100;
 	printf("This program print report card.\n");
 
 	printf("Korean : %d\n", kor);
